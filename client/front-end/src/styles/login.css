@@ -1,0 +1,26 @@
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.container{
+    margin: 1rem;
+    padding: 1 rem;
+}
+.container > div{
+    flex: 50%;
+    margin-bottom: 10px;
+}
+
+.username_label{
+    margin-bottom: 1rem;
+}
+
+.login_btn{
+    background-color: rgb(79, 4, 17) !important;
+    width: 200px !important;
+}
+.footer{
+    background-color: lightgrey;
+    padding: 20px;
+    width: 100%;
+}

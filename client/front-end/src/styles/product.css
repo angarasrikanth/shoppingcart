@@ -1,0 +1,25 @@
+
+ .product_btn{
+    background-color: rgb(79, 4, 17) !important;
+    width: 50%;
+    color: white !important;
+    margin-left: 1rem;
+
+}
+.absolute-top{
+    position: absolute;
+    top:1rem;
+    left: 1rem;
+}
+.margin_top{
+    margin-top: 1rem;
+}
+.product_card_text{
+    max-height: 100px;
+    overflow: scroll;
+
+}
+ .goback_btn{
+    width: 8rem !important;
+    margin-bottom: 1rem;
+}
